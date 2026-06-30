@@ -11,7 +11,7 @@
   "natives_url": "https://www.dropbox.com/scl/fi/zjjw8gxz8vnrc65uk99af/natives.zip?rlkey=foyvzfs1wzaspg35l8jnuwxlb&st=uftl9fbw&dl=1",
   "assets_url": "https://www.dropbox.com/scl/fi/0zw2loepww83y2vmxsj8k/assets.zip?rlkey=nfygge6t4kwk5copbhvt5fxk3&st=aam94843&dl=1",
   "launcher_jar_url": "https://launcher.mazenetwork.com.tr/minecraft-launcher/launcher.jar",
-  "launcher_jar_checksum": "dccca9167bb3451b0b496179c47a40857a613147",
+  "launcher_jar_checksum": "d9c6c7885ffce05952d08e1d7e91e674359d930c",
   "launcher_path": "launcher.jar",
   "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%",
   "javaIntegrity": {
