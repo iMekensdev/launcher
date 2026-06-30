@@ -8,7 +8,7 @@
       "url": "https://launcher.mazenw.com.tr/bootstrap/bootstrap.jar"
     }
   },
-  "natives_url": "https://www.dropbox.com/scl/fi/5lscdcgyg965yszximnkc/natives.zip?rlkey=jzm5gr5jfjxpcnzhbhp2judqy&st=gmu8n79y&dl=1",
+  "natives_url": "https://www.dropbox.com/scl/fi/6m9o94uoq5ixmf78imxa7/natives.zip?rlkey=aqsh26jedgijkpqd7bnvztozw&st=g3az3y2i&dl=1",
   "assets_url": "https://www.dropbox.com/scl/fi/0zw2loepww83y2vmxsj8k/assets.zip?rlkey=nfygge6t4kwk5copbhvt5fxk3&st=aam94843&dl=1",
   "launcher_jar_url": "https://launcher.mazenw.com.tr/minecraft-launcher/launcher.jar",
   "launcher_jar_checksum": "5e5a5a3d8fa3c76e2092bc0cd93da4198e6c1c8b",
@@ -19,8 +19,8 @@
   },
   "downloads": {
     "client": {
-      "sha1": "b1bf5785240559a46009d98441526d52f52a5b2f",
-      "url": "https://www.dropbox.com/scl/fi/4f6y70mc5nmimqkemcw7c/Maze.jar?rlkey=k68zaec9duwt6qdijlnwvtxue&st=0asaq0db&dl=1"
+      "sha1": "54309749da97d88d84c0bcec107e79de0308a593",
+      "url": "https://www.dropbox.com/scl/fi/oomhl3wegvanwuep5i0w3/Maze.jar?rlkey=tibdc38e0bo2rf2wta415ii2w&st=1xl9w8yi&dl=1"
     }
   },
 "java": {
