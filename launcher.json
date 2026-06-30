@@ -23,9 +23,10 @@
       "url": "https://www.dropbox.com/scl/fi/4f6y70mc5nmimqkemcw7c/Maze.jar?rlkey=k68zaec9duwt6qdijlnwvtxue&st=0asaq0db&dl=1"
     }
   },
-  "java": {
+"java": {
     "url": "https://www.dropbox.com/scl/fi/i0e9dtp6j156uv1uzh3hb/java.zip?rlkey=9r7f896xupg5uucqq8ycls302&st=h6s9r8og&dl=1",
     "sha1": "432bc1d69c0ca9617925ce44cfc9eb014789f2eb",
-    "sha1-x32": "432bc1d69c0ca9617925ce44cfc9eb014789f2eb"
-  }
+    "sha1-x32": "432bc1d69c0ca9617925ce44cfc9eb014789f2eb",
+    "zip-sha1": "432bc1d69c0ca9617925ce44cfc9eb014789f2eb"
+}
 }
